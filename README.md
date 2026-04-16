@@ -1,6 +1,6 @@
-# 📝 To-Do List com HTML e CSS
+#  To-Do List com HTML e CSS
 
-## 📌 Descrição
+##  Descrição
 
 Este projeto consiste em uma aplicação simples de lista de tarefas (To-Do List), desenvolvida utilizando HTML e CSS, com foco na prática de Engenharia de Prompt aplicada ao desenvolvimento de software.
 
@@ -8,7 +8,7 @@ A aplicação permite visualizar tarefas com diferentes níveis de prioridade (a
 
 ---
 
-## 🎯 Objetivo
+##  Objetivo
 
 Aplicar conceitos de:
 
@@ -19,7 +19,7 @@ Aplicar conceitos de:
 
 ---
 
-## 🛠 Tecnologias Utilizadas
+##  Tecnologias Utilizadas
 
 * HTML
 * CSS
@@ -27,7 +27,7 @@ Aplicar conceitos de:
 
 ---
 
-## ⚙️ Funcionalidades
+##  Funcionalidades
 
 * Campo para inserção de tarefas
 * Seletor de prioridade (Alta, Média, Baixa)
@@ -37,7 +37,7 @@ Aplicar conceitos de:
 
 ---
 
-## 🤖 Uso de Inteligência Artificial
+##  Uso de Inteligência Artificial
 
 A IA foi utilizada como ferramenta de apoio no desenvolvimento, atuando como um assistente para:
 
@@ -49,7 +49,7 @@ Todos os códigos gerados foram analisados, compreendidos e adaptados conforme n
 
 ---
 
-## 📁 Estrutura do Projeto
+##  Estrutura do Projeto
 
 ```
 /projeto
@@ -60,7 +60,7 @@ Todos os códigos gerados foram analisados, compreendidos e adaptados conforme n
 
 ---
 
-## 🚀 Deploy
+##  Deploy
 
 Projeto publicado utilizando Vercel.
 
